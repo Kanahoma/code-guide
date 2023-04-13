@@ -11,7 +11,7 @@ npm i docsify-cli -g
 Run the local server with `docsify serve`.
 
 ```bash
-docsify serve ./documentation
+docsify serve ./docs
 ```
 
 You will see below output on terminal
