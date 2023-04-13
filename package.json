@@ -1,0 +1,20 @@
+{
+  "name": "code-guide-theme",
+  "version": "1.0.0",
+  "description": "Enables dark and light mode for docsify sites with switch",
+  "main": "index.js",
+  "directories": {
+    "doc": "documentation"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Alex Gamero",
+    "email": "alex@kanahoma.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "docsify-darklight-theme": "^3.2.0"
+  }
+}
