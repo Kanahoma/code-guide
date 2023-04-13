@@ -4,7 +4,7 @@ This repository houses the source code for the Kanahoma Codeguide website. It is
 
 ## Quick start
 
-Look at [this tutorial](/documentation/README.md)
+Look at [this tutorial](https://kanahoma.github.io/code-guide/#/?id=quick-start-contribution)
 
 ## Support Level
 **Active**: Kanahoma is actively working on this, and we expect to continue work for the foreseeable future including keeping tested up to the most recent version of WordPress.

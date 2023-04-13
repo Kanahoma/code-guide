@@ -1,3 +1,21 @@
 - Getting started
+  - [Quick Start](/?id=quick-start-contribution)
 
-  - [Quick Start](quickstart.md)
+- Best Practices
+  - Introduction
+    - [Goal](best-practices/intro/intro.md?id=goal)
+    - [Contributing](best-practices/intro/intro.md?id=contributing)
+  - Markup
+    - [Structure](#)
+    - [Media](#)
+    - [Accessibility](#)
+  - CSS
+    - [Syntax and Formatting](#)
+    - [Responsive Design](#)
+    - [Performance](#)
+    - [Accessibility](#)
+    - [Frameworks](#)
+
+- Dev Workflows
+  - [Build Process](/local-development/build-process.md)
+  - [Set up Local Dev](/local-development/setup-local-dev.md)
