@@ -1,4 +1,4 @@
-# Build Workflow
+# Build Process Workflow
 
 #### Basic Process:
 
@@ -28,5 +28,5 @@ SSH keys will periodically need to be re-generated. There are 3 components to th
 
 WPVIP is set to "watch" our `-built` branches, and deploy changes to our site whenvever there is a change to one of those branches.
 
---- 
+---
 > Last Modified: {docsify-updated}
