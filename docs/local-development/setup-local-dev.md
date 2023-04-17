@@ -42,7 +42,7 @@ Additional helpful links:
 
 [WPVIP Set up a third-party local development app](https://docs.wpvip.com/how-tos/third-party-local-development/)
 
-> A few [important notes](/local-development/third-party-local-notes.md?id=set-up-a-third-party-local-development-app) about this process.
+!> A few [important notes](/local-development/third-party-local-notes.md?id=set-up-a-third-party-local-development-app) about this process.
 
 [Set Up WP-CLI in Local WP](/local-development/wp-cli-local-wp.md)
 
