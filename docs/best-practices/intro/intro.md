@@ -1,4 +1,4 @@
-# Introduction
+# Best Practices
 
 ## Goal
 
@@ -6,9 +6,6 @@ As a company, we work hard to deliver components and websites that produce excel
 
 We should follow these best practices in all their work. We at Kanahoma embrace creativity, thus our best practices are not intended to be exhaustive or prohibitive. The goal of this document is to offer a solid recommendation rather than a strict instruction. We hope that these best practices will have an impact on the community as well as Kanahomies.
 
-## Contributing
-
-Please contribute via [pull requests on GitHub](https://github.com/Kanahoma/code-guide).
-
 ---
+
 > Last Modified: {docsify-updated}

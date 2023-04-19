@@ -8,4 +8,4 @@
 - We welcome pull requests and spirited debates.
 
 [Kanahoma GitHub](https://github.com/Kanahoma)
-[Getting Started](#quick-start-contribution)
+[Get Started](/home.md)

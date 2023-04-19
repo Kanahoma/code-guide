@@ -305,13 +305,34 @@ main.hidden {
 }
 
 .sidebar .sidebar-nav .section-title {
-	color: #cbcece;
+	color: var(--sectionTitle);
+	display: flex;
+	align-items: center;
 	font-size: 17px;
+	font-weight: 700;
+}
+
+.sidebar .sidebar-nav .section-title::after {
+	content: '';
+	background: var(--subListIcon) center no-repeat;
+	height: 0.875rem;
+	margin-left: auto;
+	transform: rotate(90deg);
+	transition: all 0.15s ease-in-out;
+	width: 0.875rem;
 }
 
 .sidebar li.collapse .app-sub-sidebar {
 	display: none
 }
+
+.sidebar p.collapse .app-sub-sidebar {
+	display: none
+}
+
+/* .sidebar p.collapse .section-title::after {
+	transform: rotate(180deg);
+} */
 
 .sidebar ul {
 	margin: 0 0 0 15px;
@@ -320,7 +341,7 @@ main.hidden {
 
 .sidebar li>p {
 	font-weight: 700;
-	margin: 0
+	margin: 0;
 }
 
 .sidebar ul,
@@ -656,6 +677,7 @@ section.cover .cover-main {
 }
 
 section.cover .cover-main .cover-logo {
+	content: var(--toogleLogo);
 	max-width: 300px;
 }
 
@@ -757,17 +779,22 @@ body {
 }
 
 .sidebar ul li a {
+	border-radius: 0.25rem;
 	color: var(--sidebarSublink);
 	font-size: 14px;
 	font-weight: 400;
 	overflow: hidden;
+	padding: 0 5px;
 	text-decoration: none;
 	text-overflow: ellipsis;
-	white-space: nowrap
+	transition: all 0.15s ease-in-out;
+	white-space: nowrap;
 }
 
 .sidebar ul li a:hover {
-	text-decoration: underline
+	background-color: var(--menuColor);
+	color: var(--color-white);
+    text-decoration: none;
 }
 
 .sidebar ul li ul {
@@ -798,7 +825,7 @@ body {
 .markdown-section a {
 	color: var(--accent);
 	font-weight: 600;
-	text-decoration: none;
+	/* text-decoration: none; */
 }
 
 .markdown-section h1 {

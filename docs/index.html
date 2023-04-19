@@ -46,20 +46,32 @@
         }
       ],
       darklightTheme: {
+        defaultTheme : 'dark',
         dark: {
           accent: '#57886c',
           background: '#101938',
           textColor: '#cbcece',
-          coverBackground : '#101938'
+          coverBackground: '#101938',
+          toogleLogo: 'url(./_images/Kanahoma-logo.svg)',
+          menuColor: '#57886c91',
+          subListIcon: 'url(./_images/sublist-icon.svg)',
+          sectionTitle: '#cbcece'
         },
         light: {
           accent: '#101938',
-          coverBackground : '#101938'
+          coverBackground: '#fffff',
+          toogleLogo: 'url(./_images/Kanahoma-logo-blue.svg)',
+          menuColor: '#10193836',
+          subListIcon: 'url(./_images/sublist-icon-blue.svg)',
+          sectionTitle: '#344963'
         }
       },
       repo: 'https://github.com/Kanahoma/code-guide',
       loadSidebar: true,
+      subMaxLevel: 2,
       formatUpdated: '{MM}/{DD}/{YYYY}',
+      nativeEmoji: true,
+      homepage: 'home.md',
     }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
