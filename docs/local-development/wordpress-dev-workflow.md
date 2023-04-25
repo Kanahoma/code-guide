@@ -94,7 +94,7 @@ All pull requests should be are reviewed by the project lead or the person assig
 
 ## Final conclusion
 
-We are a group of individuals working together to build outstading websites for our clients and learn from each other. It's important to treat each other with kindness and acknowledge that compromises may need to be made.
+We are a group of individuals working together to build outstanding websites for our clients and learn from each other. It's important to treat each other with kindness and acknowledge that compromises may need to be made.
 
 ----------------------------------------------------------------------
 
