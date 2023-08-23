@@ -11,5 +11,5 @@
 - Dev Workflows
   - [Build Process](/local-development/build-process.md ':class=section-title')
   - [Local Dev Env](/local-development/setup-local-dev.md ':class=section-title')
-  - [WordPress Dev Workflow](/local-development/wordpress-dev-workflow.md ':class=section-title')
+  - [Web Dev Workflow](/local-development/web-dev-workflow.md ':class=section-title')
   - [Tools](/local-development/tools.md ':class=section-title')
