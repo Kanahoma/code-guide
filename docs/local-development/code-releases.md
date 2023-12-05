@@ -37,7 +37,7 @@ The `--draft` flag is optional but highly recommended. Each command will echo th
 
 Example:
 
-- `gh pr create --draft --title "v1.10.0 - pre-release" --body-file ~/Desktop/kanahoma.org-v1.10.0.md --assignee @me --base staging --head develop`
+- `gh pr create --draft --title "v1.10.0 - pre-release" --body-file ~/Desktop/kanahoma.com-v1.10.0.md --assignee @me --base staging --head develop`
 
 Once the last PR is merged into `production`, run the command below to create a release.
 
@@ -45,7 +45,7 @@ Once the last PR is merged into `production`, run the command below to create a 
 
 Example:
 
-- `gh release create v1.10.0 --title "v1.10.0" --draft --notes-file ~/Desktop/kanahoma.org-v1.10.0.md`
+- `gh release create v1.10.0 --title "v1.10.0" --draft --notes-file ~/Desktop/kanahoma.com-v1.10.0.md`
 
 ### Manual
 
