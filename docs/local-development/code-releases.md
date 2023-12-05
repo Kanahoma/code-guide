@@ -45,7 +45,7 @@ Once the last PR is merged into `production`, run the command below to create a 
 
 Example:
 
-- `gh release create v1.10.0 --title "v1.10.0" --draft --notes-file ~/Desktop/nu.edu-v1.10.0.md`
+- `gh release create v1.10.0 --title "v1.10.0" --draft --notes-file ~/Desktop/kanahoma.org-v1.10.0.md`
 
 ### Manual
 
