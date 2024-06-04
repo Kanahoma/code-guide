@@ -34,7 +34,9 @@ Dependabot and Composer are used for automated dependency management and updates
 1. **Clone the Repository**: Clone the repository containing the WordPress project to your local machine.
 2. **Run Composer Update**: Navigate to the project directory and run `composer update` to update the dependency locally.
 3. **Test Plugins**: Test the updated plugin locally to ensure it works correctly and does not introduce errors or conflicts.
-4. **Check for Errors**: Monitor error logs, debug any issues, and verify compatibility with existing functionality.
+4. **Check for Errors**: Monitor error logs, debug any issues, and verify compatibility with existing functionality. There are a few things to keep in mind:
+   - Check your browser's JavaScript console and see if there are any errors.
+   - Use Query Monitor to help make PHP notices and warnings more noticeable and report anything you see.
 5. **Test Edge Cases**: Test edge cases and specific functionalities affected by the plugin updates.
 6. **Security Audit**: Check the changelog of the updated plugin for any security vulnerabilities or fixes. Ensure that the updated plugin does not introduce any security vulnerabilities.
 
